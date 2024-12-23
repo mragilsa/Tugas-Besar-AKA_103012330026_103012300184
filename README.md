@@ -27,6 +27,11 @@ Eksperimen dilakukan dengan beberapa ukuran input dan waktu eksekusi dari kedua 
 - `power_recursive_optimized`: Implementasi algoritma rekursif dengan optimasi Divide and Conquer.
 - `pangkat.py`: Skrip untuk menghasilkan grafik perbandingan.
 
+## Link Google Colab
+```bash
+https://colab.research.google.com/drive/1E1OAKGOzaF5wGWbO73gmeVHIeM81onAr?usp=sharing
+```
+
 ## Cara Penggunaan
 
 1. Clone repositori ini ke komputer Anda:
