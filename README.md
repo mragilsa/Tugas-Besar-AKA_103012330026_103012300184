@@ -40,6 +40,6 @@ Eksperimen dilakukan dengan beberapa ukuran input dan waktu eksekusi dari kedua 
    ```bash
    cd Tugas-Besar-AKA_103012330026_103012300184
    
-4. Jalankan skrip untuk melihat hasil eksperimen dan grafik:
+4. Jalankan skrip menggunakan versi python3 untuk melihat hasil eksperimen dan grafik:
    ```bash
    python3 pangkat.py
