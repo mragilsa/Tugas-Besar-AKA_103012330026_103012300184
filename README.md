@@ -25,7 +25,6 @@ Eksperimen dilakukan dengan beberapa ukuran input dan waktu eksekusi dari kedua 
 
 - `power_iterative.py`: Implementasi algoritma iteratif.
 - `power_recursive_optimized.py`: Implementasi algoritma rekursif dengan optimasi Divide and Conquer.
-- `results.txt`: Hasil waktu eksekusi untuk berbagai ukuran input.
 - `plot.py`: Skrip untuk menghasilkan grafik perbandingan.
 
 ## Cara Penggunaan
