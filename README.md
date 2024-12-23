@@ -25,7 +25,7 @@ Eksperimen dilakukan dengan beberapa ukuran input dan waktu eksekusi dari kedua 
 
 - `power_iterative.py`: Implementasi algoritma iteratif.
 - `power_recursive_optimized.py`: Implementasi algoritma rekursif dengan optimasi Divide and Conquer.
-- `plot.py`: Skrip untuk menghasilkan grafik perbandingan.
+- `pangkat.py`: Skrip untuk menghasilkan grafik perbandingan.
 
 ## Cara Penggunaan
 
@@ -37,4 +37,4 @@ Eksperimen dilakukan dengan beberapa ukuran input dan waktu eksekusi dari kedua 
    pip install matplotlib
 3. Jalankan skrip untuk melihat hasil eksperimen dan grafik:
    ```bash
-   python plot.py
+   python3 pangkat.py
