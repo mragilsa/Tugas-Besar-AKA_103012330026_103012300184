@@ -35,6 +35,11 @@ Eksperimen dilakukan dengan beberapa ukuran input dan waktu eksekusi dari kedua 
 2. Instal dependensi yang diperlukan:
    ```bash
    pip install matplotlib
-3. Jalankan skrip untuk melihat hasil eksperimen dan grafik:
+
+3. Pastikan berada di direktori yang benar
+   ```bash
+   cd Tugas-Besar-AKA_103012330026_103012300184
+   
+4. Jalankan skrip untuk melihat hasil eksperimen dan grafik:
    ```bash
    python3 pangkat.py
